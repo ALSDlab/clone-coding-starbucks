@@ -1,5 +1,5 @@
 import 'package:clone_coding_starbucks/repository/cardModelRepository.dart';
-import 'package:clone_coding_starbucks/starbucksCard.dart';
+import 'package:clone_coding_starbucks/wiget/starbucksCard.dart';
 import 'package:clone_coding_starbucks/wiget/whatIsNewWiget.dart';
 
 import 'package:flutter/material.dart';

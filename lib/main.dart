@@ -1,4 +1,4 @@
-import 'package:clone_coding_starbucks/screenColtroller.dart';
+import 'package:clone_coding_starbucks/wiget/screenColtroller.dart';
 import 'package:flutter/material.dart';
 
 void main() {

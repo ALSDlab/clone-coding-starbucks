@@ -1,5 +1,5 @@
 import 'package:clone_coding_starbucks/repository/newsModelRepository.dart';
-import 'package:clone_coding_starbucks/starbucksCard.dart';
+import 'package:clone_coding_starbucks/wiget/starbucksCard.dart';
 import 'package:flutter/material.dart';
 
 class WhatIsNewCards extends StatefulWidget {
